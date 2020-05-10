@@ -4,6 +4,6 @@
 관심 분야 : AI (인공지능)
 
 ## 인공지능이란?
-__AI
+__AI__
  : Artificial Intelligence
 
