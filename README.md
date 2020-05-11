@@ -18,5 +18,5 @@ __AI__
 → 코드로 명시하지 않은 동작을 데이터로 학습하여 실행할 수 있는 알고리즘을 개발하는 연구 분야
 
 #### Reference
-https://brunch.co.kr/@gdhan/1   
-https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5
+<https://brunch.co.kr/@gdhan/1>   
+<https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5>
